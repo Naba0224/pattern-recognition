@@ -1,0 +1,24 @@
+{
+  "name": "pattern-recognition",
+  "version": "1.0.0",
+  "description": "Хэв танилтын үндэс lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naba0224/pattern-recognition.git"
+  },
+  "author": "Naba0224",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naba0224/pattern-recognition/issues"
+  },
+  "homepage": "https://github.com/Naba0224/pattern-recognition#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
